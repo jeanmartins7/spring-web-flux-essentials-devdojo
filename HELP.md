@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'spring.web.flux.essentials-devdojo' is invalid and this project uses 'spring.web.flux.essentials_devdojo' instead.
+* The original package name 'spring.web.flux.essentials-dev-dojo' is invalid and this project uses 'spring.web.flux.essentials_devdojo' instead.
 
 # Getting Started
 
