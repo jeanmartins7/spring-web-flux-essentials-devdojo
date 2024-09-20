@@ -1,1 +1,0 @@
-[engine:junit-jupiter]/[class:spring.web.flux.essentials_devdojo.EssentialsDevdojoApplicationTests]/[method:contextLoads()]
